@@ -1,9 +1,12 @@
 # Cisco-grade Labs
 
+> Project is not affiliated with Cisco Systems Inc.
+For official information see `https://github.com/cglabs-dev` .
+
 **Mission:** Portable, practical PoCs for L2/L3/L4 observability – shadow sampling, TPROXY, eBPF – with out-of-band correlation to L7.
 
-- **Public (monorepo `cisco-grade-observability-labs/public/`)**: high-level docs, plans, Grafana dashboards, safe demos, and interface facades.
-- **Private (invite-only, `cisco-grade-observability-labs/private/`)**: deep dataplane PoCs, privileged IaC, agent binaries, and benchmark rigs.
+- **Public (monorepo ~~`cisco-grade-observability-labs/public/`~~)**: high-level docs, plans, Grafana dashboards, safe demos, and interface facades.
+- **Private (invite-only, ~~`cisco-grade-observability-labs/private/`~~)**: deep dataplane PoCs, privileged IaC, agent binaries, and benchmark rigs.
 - **Results:** clear write-ups (EN), reproducible artifacts, and benchmarks.
 
 **Start here:** `cisco-grade-observability-labs/public/`
